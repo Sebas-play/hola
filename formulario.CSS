@@ -1,0 +1,29 @@
+body {
+ background-color: #8AFFF4;
+ background-repeat: no-repeat;
+ background-position: center center;
+ 
+background-attachment: fixed;
+ background-size:cover;
+
+}
+
+form{
+width: 25%;
+margin: 20px;
+padding: 20px;
+}
+
+
+label{
+
+   width: 100%;
+   display: block;
+
+}
+
+input{
+
+margin: bottom: 10px;
+
+}
